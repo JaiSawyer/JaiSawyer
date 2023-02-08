@@ -1,6 +1,6 @@
 <h1>Hello, My name is Jai ! <br/><a href="https://github.com/JaiSawyer">Hardware Engineer</a> <a href="https://www.linkedin.com/in/Jai-Sawyer/"></a>
 
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2>👨‍💻  Projects:</h2>
 
 - <b>Cloud Project 1</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
