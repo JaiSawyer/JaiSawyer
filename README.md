@@ -15,7 +15,10 @@
 
 
 
+<h2>  Certifications :</h2>
 
+- <b>Comptia Security Plus</b>
+  
 
 
 
