@@ -17,7 +17,9 @@
 
 <h2>  Certifications :</h2>
 
-- <b>Comptia Security Plus</b>
+- <b>Active Comptia Security Plus</b>
+- <b>Active Comptia CASP+<b>
+- <B>Active AWS Sysops Administrator<b>
   
 
 
